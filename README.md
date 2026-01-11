@@ -90,11 +90,6 @@ mvn exec:java -Dexec.mainClass="com.acme.cxf.SecureServer"
 - `cxf-rt-ws-security` : Support WS-Security
 - `jakarta.xml.bind-api` : API JAXB
 - `jaxb-runtime` : Implémentation JAXB
+<img width="1366" height="705" alt="SoapUI 5 9 1  11_01_2026 14_49_35" src="https://github.com/user-attachments/assets/877caf53-902c-419e-b25f-e9a0e45540aa" />
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou une pull request.
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+<img width="1366" height="705" alt="SoapUI 5 9 1  11_01_2026 14_49_55" src="https://github.com/user-attachments/assets/4ce31378-1f95-4e02-9819-28b741509ca4" />
